@@ -52,6 +52,7 @@ public class Product {
     }
 
     public int getStock() {
+        System.out.println("TEST");
         return stock;
     }
 
